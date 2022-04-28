@@ -31,6 +31,6 @@ title: 斑鸠离开了
 
 ---
 
-## :tada: 这是我的第一篇dailynote在github pages上!
+## 🎉 这是我的第一篇dailynote在github pages上!
 
 
