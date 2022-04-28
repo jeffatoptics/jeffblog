@@ -8,3 +8,6 @@ permalink: /link/
 
 🔗 [My Github](https://github.com/jeffatoptics/)
 
+🔗 [daily note github](https://github.com/jeffatoptics/jeffblog)
+
+
