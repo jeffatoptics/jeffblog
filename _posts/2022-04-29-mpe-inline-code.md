@@ -27,19 +27,24 @@ Created: 2022-04-29 Fri-17:50
 做个GIF图片记录一下
 
 
-![](/assets/20220429/jeff-code-chunk.gif)
+![](../assets/20220429/jeff-code-chunk.gif)
 
 
 
 ---
-先做个测试，绝对路径引用
-test absolute link [index](/index.md)
-test relative link [index](../index.md)
+
+另外一个话题，绝对路径引用
+test absolute link [index](/index.md) `[index](/index.md)`
+test relative link [index](../index.md) `[index](../index.md)`
+
+总结啊，
+相对路径和绝对路径本地markdown编辑器都可以区分开来(foam插件除外)
+jekyll对于绝对路径的应用基本上都是有点问题的。还是用`./`或者 `../` 标注比较靠谱
+
+
 
 ---
 
----
-
-[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](2022-04-29-mpe-inline-code.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next]()
+[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](2022-04-29-jekyll-mkdocs-learning.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next]()
 
 ---
