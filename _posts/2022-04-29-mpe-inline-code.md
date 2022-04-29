@@ -13,7 +13,7 @@ created: 2022-04-29 Fri-17:50
 
 当我采用MPE([markdown preview enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/))后，发现它也竟然支持python inline的方式。
 
-我前两天做过一次数测试据整理，在写文档的时候，直接通过 python 读取测试数据，然后绘图结果输出在文档里。感觉很好。
+我前两天做过一次测试数据整理，在写文档的时候，直接通过 python 读取测试数据，然后绘图结果输出在文档里。感觉很好。
 
 - 文档中直接用 import 语法 引用 python 程序，然后hide=true,感觉很清爽，
 
@@ -45,6 +45,6 @@ test relative link [index](../index.md) `[index](../index.md)`
 
 ---
 
-[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](2022-04-29-jekyll-mkdocs-learning.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next]()
+[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](2022-04-29-jekyll-mkdocs-learning.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next](2022-04-29-image-in-recent-life.md)
 
 ---
