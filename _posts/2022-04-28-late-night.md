@@ -2,6 +2,8 @@
 layout: post
 categories: life
 title: 斑鸠离开了
+Author: 
+- jeffatoptics
 ---
 
 楼下的斑鸠在风雨中孵蛋坚持了好几天，但是昨天风很大，它的蛋应该是没有保护好。它也弃巢离开了。

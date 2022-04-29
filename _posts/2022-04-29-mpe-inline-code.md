@@ -1,7 +1,7 @@
 ---
 title: MPE inline code 很强大
 layout: post
-category: life
+category: work
 tags:
 Author: 
 - jeffatoptics
