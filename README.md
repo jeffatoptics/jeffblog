@@ -4,5 +4,5 @@ permalink: readme.html
 title: jeffatoptics dailynote source file
 ---
 
-This hosts source files for my daily note web pages 🔗[jeffblog](https://jeffatoptics.github.io/jeffblog)
+This hosts the source files of my blog and daily notes 🔗[jeffblog](https://jeffatoptics.github.io/jeffblog).
 
