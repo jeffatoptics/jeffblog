@@ -9,7 +9,7 @@ created: 2022-04-29 Fri-17:50
 ---
 
 
-我没有没用过 [jupyter](https://pypi.org/project/jupyter/), 但看过它和文本一起做coding并把输出结果输出在文档里，这种coding和documentation同时进行，感觉很有意思。
+我没有用过 [jupyter](https://pypi.org/project/jupyter/), 但看过它和文本一起做coding并把输出结果输出在文档里，这种coding和documentation同时进行，感觉很有意思。
 
 当我采用MPE([markdown preview enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/))后，发现它也竟然支持python inline的方式。
 
