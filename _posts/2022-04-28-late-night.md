@@ -1,5 +1,6 @@
 ---
-[[2022-04-29-jeklly-mkdocs]]categories: life
+layout: post
+categories: life
 title: 斑鸠离开了
 ---
 
