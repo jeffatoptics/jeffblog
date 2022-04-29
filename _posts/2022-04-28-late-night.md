@@ -34,7 +34,7 @@ title: 斑鸠离开了
 ## 🎉 这是我的第一篇dailynote在github pages上!
 ---
 
-[⏮️arrohome](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [ ◀️prev](2022-04-28-late-night.md) &nbsp; &nbsp; &nbsp; &nbsp; [ ▶️ next](./2022-04-29-jekyll-mkdocs-learning.md)
+[⏮home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [ ◀️prev](2022-04-28-late-night.md) &nbsp; &nbsp; &nbsp; &nbsp; [ ▶️ next](./2022-04-29-jekyll-mkdocs-learning.md)
 
 
 ---

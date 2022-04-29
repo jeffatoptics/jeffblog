@@ -1,7 +1,7 @@
 ---
 title: 关于网站笔记 jekyll 和 mkdocs
 layout: post
-category: life
+category: work
 tags:
 Author: 
 - jeffatoptics
@@ -20,11 +20,8 @@ Github page 发日记可以有三个方法:
 
 以后关注学习一下 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)。感觉功能很强大。
 
-- 
-test absolute link in post folder ![](/assets/20220429/bird2.jpg)
-
 ---
 
-[⏮️arrohome](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [ ◀️prev](2022-04-28-late-night.md) &nbsp; &nbsp; &nbsp; &nbsp; [ ▶️ next](2022-04-29-jekyll-mkdocs-learning.md)
+[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](2022-04-28-late-night.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next](2022-04-29-mpe-inline-code.md)
 
 ---
