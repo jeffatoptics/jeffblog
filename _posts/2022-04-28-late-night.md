@@ -2,7 +2,7 @@
 layout: post
 categories: life
 title: 斑鸠离开了
-Author: 
+author: 
 - jeffatoptics
 ---
 
