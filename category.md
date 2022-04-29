@@ -3,7 +3,7 @@ layout: page
 permalink: /category/
 title: Category
 ---
-<img width=600 style="float:none" src="{{ site.baseurl }}{% link assets/suntree.jpg %}" width=600 /> 
+<img width=300 style="float:none" src="{{ site.baseurl }}{% link assets/suntree.jpg %}" width=600 /> 
 
 {% for cgy in site.categories %}
   <h3>{{ cgy[0] }}</h3>
