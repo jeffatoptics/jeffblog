@@ -2,10 +2,9 @@
 title: 最近的生活点滴照片
 layout: post
 category: life
-tags:
 author: 
 - jeffatoptics
-created: 2022-04-29 Fri-21:00
+created: 2022-04-29 Fri 21:00
 ---
 ![我的薄荷可以吃]({{ site.baseurl }}{% link assets/20220429/mymint.jpg %}){: width="600"}
 - 吃过早饭，在阳台揪了一片薄荷叶子吃，看似粗壮，没想到很嫩，入口即化，满嘴清香。以后多养几盆
@@ -25,7 +24,7 @@ created: 2022-04-29 Fri-21:00
 
 ---
 
-[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](2022-04-29-mpe-inline-code.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next]()
+[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](2022-04-29-mpe-inline-code.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next](./2022-05-02-make-minima-perfect.md)
 
 ---
 

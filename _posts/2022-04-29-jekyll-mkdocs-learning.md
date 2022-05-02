@@ -2,10 +2,9 @@
 title: 关于网站笔记 jekyll 和 mkdocs
 layout: post
 category: work
-tags:
 author: 
 - jeffatoptics
-created: 2022-04-29 Fri-13:00
+created: 2022-04-29 Fri 13:00
 ---
 
 Github page 发日记可以有三个方法:
