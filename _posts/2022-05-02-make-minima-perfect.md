@@ -3,7 +3,7 @@ title: 支持auto theme, katex以及mermaid
 layout: post
 category: work
 math: katex
-mermaid: true
+mermaid: dark
 author: 
 - jeffatoptics
 created: 2022-05-02 Mon 22:40
