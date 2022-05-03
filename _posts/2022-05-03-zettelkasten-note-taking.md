@@ -35,7 +35,7 @@ RN-.-> PN & LN
 
 style LN fill: red 
 style PN fill: red
-style FN fill: #f9f
+style FN fill: #0b0
 style Recycle fill: yellow
 
 </div>
@@ -56,10 +56,11 @@ My system is quite simple:
 
 my tool is using markdown extension in [vscode](https://code.visualstudio.com/).  Below lists the major extensions i am using with vscode.
 
+-[extension tool](../assets/file/2022-05-03-zettelkasten-extension.html)
+
 Have a good note!
 
 
-{% include file/2022-05-03-zettelkasten-extension.html %}
 
 ---
 
