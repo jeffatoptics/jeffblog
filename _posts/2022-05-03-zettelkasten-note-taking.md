@@ -1,5 +1,5 @@
 ---
-title: zettelkasten note taking
+title: Zettelkasten note taking
 layout: post
 category: reading
 mermaid: dark
@@ -58,18 +58,11 @@ my tool is using markdown extension in [vscode](https://code.visualstudio.com/).
 
 Have a good note!
 
-{% include file/2022-05-03-zettelkasten-extension.html %}
 
-
-
-
-
-
-
-
+{% include_relative file/2022-05-03-zettelkasten-extension.html %}
 
 ---
 
-[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev]() &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next]()
+[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](2022-05-03-make-emoji-colorful.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next]()
 
 ---

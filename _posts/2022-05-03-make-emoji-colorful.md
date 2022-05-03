@@ -37,6 +37,6 @@ more details:
 
 ---
 
-[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](./2022-05-02-make-minima-perfect.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next]()
+[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](./2022-05-02-make-minima-perfect.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next](2022-05-03-zettelkasten-note-taking.md)
 
 ---
