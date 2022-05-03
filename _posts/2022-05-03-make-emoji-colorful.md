@@ -9,15 +9,15 @@ created: 2022-05-03 Tue 15:41
 
 I have a page with emoji characters, such as 🐬
 
-- they lose their color in edge/chrome browsers in windows system as below. they just follow the font color and even italic stle defined for the page fonts.
+- they lose their color in edge/chrome browsers in windows system as below. they just follow the font color and even italic style defined for the page fonts.
     >
     >![emoji lose color](../assets/20220503/bw-emoji.png)
 
-- but they still looks good in firefox in any system, and also ok in browsers of android system. 
+- but they still look good in firefox in any system, and also ok in browsers of android system. 
     >
     >![emoji lose color](../assets/20220503/color-emoji.png)
 
-via searching over the network, i find there are a lot of complaints on the similar emoji character compliance issue. Fortunately, I find my issue can be fixed by adjusting the css of the page theme [jekyll/minima](https://github.com/jekyll/minima).
+via searching over the network, i find there are a lot of complaints on the emoji character compliance . Fortunately, I find my issue can be fixed by adjusting the css of the page theme [jekyll/minima](https://github.com/jekyll/minima).
 
 The change is very simple:
 
