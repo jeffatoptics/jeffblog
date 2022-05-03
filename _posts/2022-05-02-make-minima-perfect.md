@@ -38,6 +38,6 @@ linkStyle 0 stroke:#f00,stroke-width:4px
 
 ---
 
-[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](2022-04-29-image-in-recent-life.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next]()
+[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](2022-04-29-image-in-recent-life.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next](2022-05-03-make-emoji-colorful.md)
 
 ---
