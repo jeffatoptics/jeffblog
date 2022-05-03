@@ -56,7 +56,7 @@ My system is quite simple:
     - delete daily notes if its content 
     - keep the topic note as permanent note
 
-My tool is mainly markdown extension MPE (https://shd101wyy.github.io/markdown-preview-enhanced/) in [vscode](https://code.visualstudio.com/). 
+My tool is mainly markdown extension [MPE-Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/) in [vscode](https://code.visualstudio.com/). 
 I also follow the note taking recipes from [FOAM/Github](https://github.com/foambubble/foam).
 
 Below lists the major extensions i am using with vscode.
