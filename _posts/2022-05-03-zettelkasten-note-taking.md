@@ -54,13 +54,13 @@ My system is quite simple:
 
 1. making limited tags in above notes to associate them. delete daily notes if its content is collected into the topic note.
 
-my tool is using markdown extension in vsc.  Be;pw lists all the extensions i am using.
+my tool is using markdown extension in [vscode](https://code.visualstudio.com/).  Below lists the major extensions i am using with vscode.
 
 Have a good note!
 
 [vscode extension](./2022-05-03-zettelkasten-extension.html)
 
-[% include_relative 2022-05-03-zettelkasten-extension.html %]
+{% include_relative 2022-05-03-zettelkasten-extension.html %}
 
 
 
