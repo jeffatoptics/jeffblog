@@ -44,7 +44,7 @@ As show in above figure, Zettelkasten note taking system looks quite complicated
 
 However, one of his spirits is simple: making notes with your own words even with literate note, but not copy & paste.
 
-I am now making my technical notes in with the idea from [FOAM/Github](https://github.com/foambubble/foam).
+I am now making my technical notes in with this idea.
 
 My system is quite simple:
 
@@ -54,9 +54,12 @@ My system is quite simple:
 
 1. making limited tags in above notes to associate them. delete daily notes if its content is collected into the topic note.
 
-my tool is using markdown extension in [vscode](https://code.visualstudio.com/).  Below lists the major extensions i am using with vscode.
+My tool is mainly markdown extension MPE (https://shd101wyy.github.io/markdown-preview-enhanced/) in [vscode](https://code.visualstudio.com/). 
+I also follow the note taking recipes from [FOAM/Github](https://github.com/foambubble/foam).
 
--[extension tool](../assets/file/2022-05-03-zettelkasten-extension.html)
+Below lists the major extensions i am using with vscode.
+
+- [extension tool](../assets/file/2022-05-03-zettelkasten-extension.html)
 
 Have a good note!
 
