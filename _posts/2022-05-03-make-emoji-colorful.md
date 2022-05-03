@@ -9,7 +9,7 @@ created: 2022-05-03 Tue 15:41
 
 I have a page with emoji characters, such as 🐬
 
-- they lose their color in edge/chrome browsers in windows system as below. they just follow the font color and even italic style defined for the page fonts.
+- they lose their color in edge/chrome browsers in windows system as below. they just follow the font color style defined for the page fonts.
     >
     >![emoji lose color](../assets/20220503/bw-emoji.png)
 
