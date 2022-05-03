@@ -1,7 +1,7 @@
 ---
 title: restore emoji color in edge/chrome page in windows system
 layout: post
-category: work
+category: work tips
 author: 
 - jeffatoptics
 created: 2022-05-03 Tue 15:41
@@ -19,7 +19,7 @@ I have a page with emoji characters, such as 🐬
 
 via searching over the network, i find there are a lot of complaints on the emoji character compliance . Fortunately, I find my issue can be fixed by adjusting the css of the page theme [jekyll/minima](https://github.com/jekyll/minima).
 
-The change is very simple:
+💡 The change is very simple:
 
 - check the font family definition in `style.css` file, make sure the `Segoe UI Emoji` is before `Segoe UI Symbol` in definition list.
 
