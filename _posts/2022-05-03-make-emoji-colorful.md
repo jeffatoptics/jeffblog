@@ -15,7 +15,7 @@ I have a page with emoji characters, such as 🐬
 
 - but they still look good in firefox in any system, and also ok in browsers of android system. 
     >
-    >![emoji lose color](../assets/20220503/color-emoji.png)
+    >![emoji with color](../assets/20220503/color-emoji.png)
 
 via searching over the network, i find there are a lot of complaints on the emoji character compliance . Fortunately, I find my issue can be fixed by adjusting the css of the page theme [jekyll/minima](https://github.com/jekyll/minima).
 
