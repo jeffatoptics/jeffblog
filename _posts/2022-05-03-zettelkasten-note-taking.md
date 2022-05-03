@@ -1,7 +1,7 @@
 ---
 title: Zettelkasten note taking
 layout: post
-category: reading
+category: coding
 mermaid: dark
 author: 
 - jeffatoptics

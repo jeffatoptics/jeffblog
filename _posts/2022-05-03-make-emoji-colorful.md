@@ -1,7 +1,7 @@
 ---
 title: Restore emoji color in edge/chrome page in windows system
 layout: post
-category: tips
+category: coding
 author: 
 - jeffatoptics
 created: 2022-05-03 Tue 15:41

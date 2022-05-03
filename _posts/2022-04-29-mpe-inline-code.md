@@ -1,7 +1,7 @@
 ---
 title: MPE inline code 很强大
 layout: post
-category: work
+category: coding
 author: 
 - jeffatoptics
 created: 2022-04-29 Fri 17:50

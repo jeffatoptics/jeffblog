@@ -1,7 +1,7 @@
 ---
 title: 支持auto theme, katex以及mermaid
 layout: post
-category: work
+category: coding
 math: katex
 mermaid: dark
 author: 
