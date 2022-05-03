@@ -44,7 +44,7 @@ As show in above figure, Zettelkasten note taking system looks quite complicated
 
 However, one of his spirits is simple: making notes with your own words even with literate note, but not copy & paste.
 
-I am now making my technical notes in with the idea from [FOAM|Github](https://github.com/foambubble/foam).
+I am now making my technical notes in with the idea from [FOAM/Github](https://github.com/foambubble/foam).
 
 My system is quite simple:
 
