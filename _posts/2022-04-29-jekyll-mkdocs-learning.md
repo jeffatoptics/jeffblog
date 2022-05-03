@@ -1,7 +1,7 @@
 ---
 title: 关于网站笔记 jekyll 和 mkdocs
 layout: post
-category: work
+category: coding
 author: 
 - jeffatoptics
 created: 2022-04-29 Fri 13:00
