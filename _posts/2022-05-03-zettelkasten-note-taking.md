@@ -59,7 +59,7 @@ my tool is using markdown extension in [vscode](https://code.visualstudio.com/).
 Have a good note!
 
 
-{% include_relative file/2022-05-03-zettelkasten-extension.html %}
+{% include file/2022-05-03-zettelkasten-extension.html %}
 
 ---
 
