@@ -37,7 +37,7 @@ style B fill:#bbf,stroke:#000,stroke-width:4px,color:#f00,stroke-dasharray: 10 2
 linkStyle 0 stroke:#f00,stroke-width:4px
 </div>
 
-![demo of jeff-minima](https://pic4.zhimg.com/80/v2-210dca306ac65bcf521a7c5e401589f8.gif)
+![demo of jeff-minima](https://pic4.zhimg.com/80/v2-210dca306ac65bcf521a7c5e401589f8.gif) {: width="600"}
 
 ---
 
