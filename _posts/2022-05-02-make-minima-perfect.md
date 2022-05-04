@@ -7,6 +7,7 @@ mermaid: dark
 author: 
 - jeffatoptics
 created: 2022-05-02 Mon 22:40
+modified_date: 2022-05-04 
 ---
 
 画了三四天时间把minima的 theme做了一些加强，东拼西凑的一些css /script ，效果还挺满意
@@ -35,6 +36,8 @@ D{This is D}--this is demo text--->B
 style B fill:#bbf,stroke:#000,stroke-width:4px,color:#f00,stroke-dasharray: 10 2
 linkStyle 0 stroke:#f00,stroke-width:4px
 </div>
+
+![demo of jeff-minima](https://pic4.zhimg.com/80/v2-210dca306ac65bcf521a7c5e401589f8.gif)
 
 ---
 
