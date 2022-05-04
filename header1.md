@@ -1,12 +1,14 @@
 ---
-title: 🔗Links
+title: 🔗
 permalink: /link/
 ---
 
-🔗 [My Github pages HOME](https://jeffatoptics.github.io/)
+🔗 [My Github pages](https://jeffatoptics.github.io/)
 
 🔗 [My Github](https://github.com/jeffatoptics/)
 
-🔗 [Daily note Github](https://github.com/jeffatoptics/jeffblog)
+🔗 [This site's Github](https://github.com/jeffatoptics/jeffblog)
 
+🔗 [jeff-minima theme](https://github.com/jeffatoptics/jeff-minima)
 
+🔗 [minima theme](https://github.com/jekyll/minima)
