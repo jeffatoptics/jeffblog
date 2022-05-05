@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page-simple
 permalink: /category/
 title: 📑
 math: katex
@@ -11,7 +11,7 @@ math: katex
   <h3 id="{{ cgy[0] | slugify }}">📑 {{ cgy[0] }}</h3>
   <ul>
     {% for post in cgy[1] %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      <li><a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
       {{ post.date | date: "%b %-d, %Y" }}
       {{ post.excerpt }}
     {% endfor %}
