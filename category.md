@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: /category/
 title: 📑
 math: katex
