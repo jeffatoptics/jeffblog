@@ -69,6 +69,6 @@ Have a good note!
 
 ---
 
-[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](2022-05-03-make-emoji-colorful.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next]()
+[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](2022-05-03-make-emoji-colorful.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next](2022-05-06-make-a-PR.md)
 
 ---
