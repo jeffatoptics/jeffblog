@@ -7,10 +7,7 @@ created: 2022-05-07 Sat 20:14
 modified_date:
 ---
 
-读过了[卡片笔记写作法](https://www.amazon.cn/dp/B098DL9W7C)
-
-英文名字是 [How to take smart notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502)
-作者是 Sönke Ahrens
+读过了[卡片笔记写作法](https://www.amazon.cn/dp/B098DL9W7C), 英文名字是 [How to take smart notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502), 作者是 Sönke Ahrens
 
 ![卡片笔记写作法](https://images-cn.ssl-images-amazon.cn/images/I/51RjrqPL9LS.jpg)
 
@@ -25,6 +22,6 @@ modified_date:
 
 ---
 
-[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](./2022-05-06-make-a-PR.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next]()
+[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](./2022-05-06-github-page-scheme.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next]()
 
 ---
