@@ -12,10 +12,13 @@ modified_date:
 2) online vscode最终提交给jekyll是换行符是CRLF `\r\n`.这样的话，不满足条件1，整篇文章被做成简介发布在 index上了。
 
 解决方案很简单。在vscode点击一下CRLF模式，改成LF模式，重新发布一下就可以了。
-![CRLF vs LF](../assets/20220508/2022-05-08-20-34-10.png)
+
+![CRLF vs LF](../assets/20220508/2022-05-08-20-34-10.png){:width=300}
 
 唯一不解之谜是我本地的Vscode显示我所有的的markdown 文件都是CRLF模式的。唯一特殊的地方是Files:Eol
-![](../assets/20220508/2022-05-08-20-38-30.png). 难道vscode push的时候会自动更改LF/CRLF ？
+![](../assets/20220508/2022-05-08-20-38-30.png){:width=300}. 
+
+难道vscode push的时候会自动更改LF/CRLF ？
 
 ---
 
