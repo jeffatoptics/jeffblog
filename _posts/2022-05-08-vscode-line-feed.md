@@ -1,5 +1,5 @@
 ---
-title: 2022-05-08-vscode-line-feed
+title: vscode line feed 
 layout: post
 category: coding
 author: jeffatoptics
