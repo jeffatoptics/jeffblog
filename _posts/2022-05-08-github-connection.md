@@ -20,6 +20,6 @@ modified_date:
 
 ---
 
-[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](./2022-05-07-zettelkasten-book-reading.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next]()
+[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](./2022-05-07-zettelkasten-book-reading.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next](./2022-05-08-vscode-line-feed.md)
 
 ---
