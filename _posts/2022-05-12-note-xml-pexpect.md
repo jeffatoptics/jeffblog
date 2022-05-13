@@ -16,7 +16,7 @@ modified_date:
 </capabilities>
 </hello>
 ```
-另外考虑做一下 Autmoation 的任务，看了一下几个选择, 也尝试了一下，准备基于 paramiko 做些东西.
+另外考虑做一下 Automation 的任务，看了一下几个选择, 也尝试了一下，准备基于 paramiko 做些东西.
 比较怀念以前用的 procomm 的 terminal ，在上面能快速开发做一些界面和脚本。调试很方便，随时介入.
 
 - [pexpect](https://pexpect.readthedocs.io/en/stable/): 对于windows支持不是很给力。
