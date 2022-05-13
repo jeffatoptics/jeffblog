@@ -23,11 +23,12 @@ modified_date:
     - 子模块 [popen_spawn](https://pexpect.readthedocs.io/en/stable/api/popen_spawn.html)是给windows spawn用的。简单尝试了一下，进入linux后，发现buffer里有时候没有抓住内容。
     - ssh输入password 无法交互，用了 `ssh -t -t`后勉强能用，但需要手工自己输入密码。
 - [winexpect](https://github.com/geertj/winpexpect) 2011年后 没有更新
+
 - [wexpect](https://github.com/raczben/wexpect)情况好些，以后备用
 
 - [paramiko](https://github.com/paramiko/paramiko) 基础功能强大
 
-- [GitHub - fgimian/paramiko-expect: A Python expect-like extension for the Paramiko SSH library which also supports tailing logs.](https://github.com/fgimian/paramiko-expect) 看着似乎很好用，下一步试一下.
+- [paramiko-expect](https://github.com/fgimian/paramiko-expect) 看着似乎很好用，下一步试一下.
 
 ---
 
