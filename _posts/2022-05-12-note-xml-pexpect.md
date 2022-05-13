@@ -7,7 +7,7 @@ created: 2022-05-13 Fri 01:17
 modified_date:
 ---
 
-这两天忙着支持网管的接口。做一些结果记录时候，发现markdown笔记 code标识里<kbd>```xml</kbd>加上 xml 后，结果显示清爽了很多. 
+这两天忙着支持网管的接口。做一些结果记录时候，发现 markdown 笔记 code 标识里<kbd>```xml</kbd>加上 xml 后，结果显示清爽了很多. 
 
 ```xml
 <hello xmlns="urn:ietf:params:xml:ns:netconf:base:1.0">
@@ -16,8 +16,8 @@ modified_date:
 </capabilities>
 </hello>
 ```
-另外考虑做一下Autmoation的任务，看了一下几个选择, 也尝试了一下，准备基于paramiko做些东西.
-比较怀念以前用的procomm的terminal，在上面能快速开发做一些界面和脚本。调试很方便，随时interact.
+另外考虑做一下 Autmoation 的任务，看了一下几个选择, 也尝试了一下，准备基于 paramiko 做些东西.
+比较怀念以前用的 procomm 的 terminal ，在上面能快速开发做一些界面和脚本。调试很方便，随时介入.
 
 - [pexpect](https://pexpect.readthedocs.io/en/stable/): 对于windows支持不是很给力。
 
