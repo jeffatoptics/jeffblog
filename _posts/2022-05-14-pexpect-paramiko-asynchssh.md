@@ -19,9 +19,9 @@ modified_date:
 对于网络设备的 Automation ,这一篇文章非常好，[A Tale of Five Python SSH LibrariesA Tale of Five Python SSH Libraries | The Elegant Network](https://elegantnetwork.github.io/posts/comparing-ssh/)
 
 由此，才发现业界早已有NetDevOps的理念:
-- https://opensenselabs.com/blog/articles/netdevops
-- https://www.enterprisenetworkingplanet.com/management/what-is-netdevops/
-- https://www.section.io/engineering-education/what-is-netdevops-top-netdevops-tools-for-your-windows-operating-system/
+- [NetDevOps: When DevOps Comes To Networking - Opensense Labs](https://opensenselabs.com/blog/articles/netdevops)
+- [​​What is NetDevOps? - Enterprise Networking Planet](https://www.enterprisenetworkingplanet.com/management/what-is-netdevops/)
+- [What is NetDevOps? The top NetDevOps Tools for your Windows OS - Engineering Education (EngEd) Program - Section](https://www.section.io/engineering-education/what-is-netdevops-top-netdevops-tools-for-your-windows-operating-system/)
 
 有比较配套的软件工具包，比如 [Nornir](https://pypi.org/project/nornir/) 
 - [nornir 3.1.1 documentation](https://nornir.readthedocs.io/en/latest/)
@@ -32,6 +32,7 @@ modified_date:
 - [pexpect](https://pexpect.readthedocs.io/en/stable/): 对于windows支持不是很给力。
 
     - 子模块 [popen_spawn](https://pexpect.readthedocs.io/en/stable/api/popen_spawn.html) 是给 windows spawn 用的。简单尝试了一下，进入linux后，发现buffer里有时候没有内容,再次read一下就有了。
+    
     - ssh输入password 无法交互，用了 `ssh -t -t` 后勉强能用，但需要手工自己输入密码。
 
 - [winexpect](https://github.com/geertj/winpexpect) 2011年后 没有更新
