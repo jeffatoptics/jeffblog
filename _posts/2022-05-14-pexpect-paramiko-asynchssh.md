@@ -16,7 +16,7 @@ modified_date:
 这几天网上搜索了一下，,也简单尝试了一下命令，准备基于 paramiko/paramiko-expect 做些东西.
 比较怀念以前用的 procomm 的 terminal ，在上面能快速开发做一些界面和脚本。因为本身是terminal平台，在上面运行脚本，调试很方便，随时介入.
 
-对于网络设备的 Automation ,这一篇文章非常好，[A Tale of Five Python SSH LibrariesA Tale of Five Python SSH Libraries | The Elegant Network](https://elegantnetwork.github.io/posts/comparing-ssh/)
+对于网络设备的 Automation ,这一篇文章非常好，[A Tale of Five Python SSH LibrariesA Tale of Five Python SSH Libraries - The Elegant Network](https://elegantnetwork.github.io/posts/comparing-ssh/)
 
 由此，才发现业界早已有NetDevOps的理念:
 - [NetDevOps: When DevOps Comes To Networking - Opensense Labs](https://opensenselabs.com/blog/articles/netdevops)
@@ -32,7 +32,7 @@ modified_date:
 - [pexpect](https://pexpect.readthedocs.io/en/stable/): 对于windows支持不是很给力。
 
     - 子模块 [popen_spawn](https://pexpect.readthedocs.io/en/stable/api/popen_spawn.html) 是给 windows spawn 用的。简单尝试了一下，进入linux后，发现buffer里有时候没有内容,再次read一下就有了。
-    
+
     - ssh输入password 无法交互，用了 `ssh -t -t` 后勉强能用，但需要手工自己输入密码。
 
 - [winexpect](https://github.com/geertj/winpexpect) 2011年后 没有更新
