@@ -1,6 +1,7 @@
 ---
 title: pexpect 总结
 layout: post
+mermaid: dark
 category: coding
 author: jeffatoptics
 created: 2022-05-16 Mon 14:19
