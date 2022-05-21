@@ -4,7 +4,7 @@ permalink: /category/
 title: 📑
 math: katex
 ---
-![logo](./assets/logo.png){: width="150"}
+![logo](./assets/logo.png){: width="150"}<br>
 {% for cgy in site.categories %} <a class="post-list-heading" href="#{{ cgy[0] | slugify }}">{{ cgy[0] }} {%- if forloop.last == false %},{% endif -%}</a>{% endfor %}
 
 {% for cgy in site.categories %}
