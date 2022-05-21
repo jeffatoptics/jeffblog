@@ -100,6 +100,6 @@ UTF-8 兼容Ascii(一个byte对应一个英文字符)，对于非英文字符，
 
 ---
 
-[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](2022-05-14-pexpect-paramiko-asynchssh.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next]()
+[⏮ home](../index.md) &nbsp; &nbsp; &nbsp; &nbsp; [🔀 category](../category.md) &nbsp; &nbsp; &nbsp; &nbsp; [◀️ prev](2022-05-14-pexpect-paramiko-asynchssh.md) &nbsp; &nbsp; &nbsp; &nbsp; [▶️ next](./2022-05-21-one-day.md)
 
 ---
