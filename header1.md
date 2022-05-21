@@ -3,7 +3,7 @@ layout: page-simple
 title: 🔗
 permalink: /link/
 ---
-
+![logo](./assets/logo.png){: width="150"}
 🔗 [My Github pages](https://jeffatoptics.github.io/)
 
 🔗 [My Github](https://github.com/jeffatoptics/)
