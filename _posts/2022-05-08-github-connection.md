@@ -8,7 +8,7 @@ modified_date:
 ---
 
 [Gighub520](https://github.com/521xueweihan/GitHub520)提供了HOSTS的实时更新，把里面的内容直接COPY到本地电脑的文件后，访问竟然非常流畅
-
+[Github hosts](https://ineo6.github.io/hosts/) 也提供HOSTS更新。[Gighub520](https://github.com/521xueweihan/GitHub520) 在没配置之前估计很难访问，可以先访问第二个地址
 改动hosts 步骤:
 
 1. `command` ➡`run as administrator`
