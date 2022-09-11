@@ -27,8 +27,8 @@ modified_date:
 我们也不会再养小猫了， 除非以后，我们有一个带院子的房子。
 
 ![](../assets/20220911/coffee6.jpg){: width="300"}
-![](../assets/20220911/coffee1.jpg){: width="300"}
 ![](../assets/20220911/coffee2.jpg){: width="300"}
+![](../assets/20220911/coffee1.jpg){: width="300"}
 ![](../assets/20220911/coffee3.jpg){: width="300"}
 ![](../assets/20220911/coffee4.jpg){: width="300"}
 ![](../assets/20220911/coffee5.jpg){: width="300"}
