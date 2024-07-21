@@ -26,9 +26,9 @@ modified_date:
 
 
 想着两周后的六盘水半马，不知道啥情况。
-![跑步后留影](/assets/20240721/my_run_race.jpg){:width="600"}
+![跑步后留影](../assets/20240721/my_run_race.jpg){:width="600"}
 对比一个月前的我，感觉瘦了
-![跑步后留影](/assets/20240721/my_run_2024June.jpg){:width="600"}
+![跑步后留影](../assets/20240721/my_run_2024June.jpg){:width="600"}
 
 ---
 
